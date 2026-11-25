@@ -1,7 +1,7 @@
 # Pen Lens
 
-A free overlay for League of Legends that shows, inside the shop, how much damage each enemy actually blocks - and how much a selected item would change that.
-
+League of Legends overlay calculating damage gain/reduce per enemy from penetration and defense items. 
+ 
 ![Pen Lens in the shop](images/hero.png)
 
 *The enemy panel in the shop, and a zoom on it.*
