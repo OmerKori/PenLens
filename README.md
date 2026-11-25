@@ -1,8 +1,8 @@
-# Resist Lens
+# Pen Lens
 
 A free overlay for League of Legends that shows, inside the shop, how much damage each enemy actually blocks - and how much a selected item would change that.
 
-![Resist Lens in the shop](images/overview.png)
+![Pen Lens in the shop](images/overview.png)
 
 *Left: the enemy panel. Middle: a lethality item selected. Right: an armor item selected.*
 
@@ -63,6 +63,6 @@ In development. Not yet released - waiting for review by Riot Games.
 
 ## Legal
 
-Resist Lens isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
+Pen Lens isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
 
 The source code is not public. All rights reserved.
