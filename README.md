@@ -2,9 +2,9 @@
 
 A free overlay for League of Legends that shows, inside the shop, how much damage each enemy actually blocks - and how much a selected item would change that.
 
-![Pen Lens in the shop](images/overview.png)
+![Pen Lens in the shop](images/hero.png)
 
-*Left: the enemy panel. Middle: a lethality item selected. Right: an armor item selected.*
+*The enemy panel in the shop, and a zoom on it.*
 
 ## The problem
 
