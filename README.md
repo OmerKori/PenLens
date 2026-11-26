@@ -3,13 +3,26 @@
 League of Legends overlay calculating damage gain/reduce per enemy from penetration and defense items.
 
 ### Post penetration per enemy
-![Post penetration per enemy](images/hero.png)
+
+<p>
+  <img src="images/overview_main.png" width="560" alt="Shop with the enemy panel">
+  <img src="images/overview_zoom.png" width="260" alt="Enemy panel">
+</p>
+
+Hover to see damage reduce
+
+<img src="images/overview_hover.png" width="300" alt="Hover tooltip">
 
 ### Damage gain from penetration item
-![Damage gain from penetration item](images/pen_item.png)
+
+<p>
+  <img src="images/pen_main.png" width="560" alt="Penetration item selected">
+  <img src="images/pen_zoom.png" width="330" alt="Panel with a penetration item">
+</p>
 
 ### Defense gain from magic resist item
-![Defense gain from magic resist item](images/defense_item.png)
+
+<img src="images/mr_main.png" width="560" alt="Magic resist item selected">
 
 > **Note:** values are estimated from each champion's level and items only. Runes, buffs, stacks and some passives are not included, so the numbers are approximate.
 
