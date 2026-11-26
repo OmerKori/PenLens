@@ -11,6 +11,8 @@ League of Legends overlay calculating damage gain/reduce per enemy from penetrat
 ### Defense gain from magic resist item
 ![Defense gain from magic resist item](images/defense_item.png)
 
+> **Note:** values are estimated from each champion's level and items only. Runes, buffs, stacks and some passives are not included, so the numbers are approximate.
+
 ## How it works
 
 - Uses only the game's local Live Client Data API and Data Dragon. No Riot API key.
