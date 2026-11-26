@@ -8,8 +8,8 @@ League of Legends overlay calculating damage gain/reduce per enemy from penetrat
 ### Damage gain from penetration item
 ![Damage gain from penetration item](images/pen_item.png)
 
-### Defense gain from armor item
-![Defense gain from armor item](images/armor_item.png)
+### Defense gain from magic resist item
+![Defense gain from magic resist item](images/defense_item.png)
 
 ## How it works
 
