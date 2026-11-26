@@ -5,8 +5,8 @@ League of Legends overlay calculating damage gain/reduce per enemy from penetrat
 ### Post penetration per enemy
 
 <p>
-  <img src="images/overview_main.png" width="560" alt="Shop with the enemy panel">
-  <img src="images/overview_zoom.png" width="260" alt="Enemy panel">
+  <img src="images/overview_main.png" width="64%" alt="Shop with the enemy panel">
+  <img src="images/overview_zoom.png" width="33%" alt="Enemy panel">
 </p>
 
 Hover to see damage reduce
@@ -16,8 +16,8 @@ Hover to see damage reduce
 ### Damage gain from penetration item
 
 <p>
-  <img src="images/pen_main.png" width="560" alt="Penetration item selected">
-  <img src="images/pen_zoom.png" width="330" alt="Panel with a penetration item">
+  <img src="images/pen_main.png" width="58%" alt="Penetration item selected">
+  <img src="images/pen_zoom.png" width="39%" alt="Panel with a penetration item">
 </p>
 
 ### Defense gain from magic resist item
